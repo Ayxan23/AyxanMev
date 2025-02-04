@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Project Name1",
+    "name": "Blog",
     "desc": "I enjoy turning complex problems into simple designs, while continuously learning new technologies to improve my craft. Whether it’s building interactive UIs or optimizing the user experience, I’m driven by the challenge of creating web applications that people love to use",
     "img": "16x9.jpg",
-    "liveLink": "/",
+    "liveLink": "/blog",
     "sourceLink": "/"
   },
   {
