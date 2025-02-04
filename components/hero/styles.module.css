@@ -1,0 +1,107 @@
+.hero {
+  display: flex;
+  gap: 40px;
+  margin-top: 10px;
+}
+
+.heroImage {
+  user-select: none;
+  position: relative;
+  max-width: 250px;
+  width: 100%;
+  min-width: 250px;
+  aspect-ratio: 1/1;
+}
+
+.heroImage img {
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.heroContent {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.heroContent h1 {
+  user-select: none;
+  font-weight: 500;
+  font-size: 24px;
+  color: var(--primary-color);
+}
+
+.heroContent p {
+  font-size: 18px;
+}
+
+.heroContent div {
+  display: flex;
+  row-gap: 5px;
+  column-gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 4px;
+}
+
+.heroContent div p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.heroContent div p span {
+  color: var(--primary-color);
+  font-size: 20px;
+}
+
+.heroContent a:hover {
+  color: var(--primary-color);
+}
+
+@media screen and (max-width: 900px) {
+  .hero {
+    margin-top: 0;
+  }
+  .heroContent {
+    align-items: center;
+    text-align: justify;
+    gap: 4px;
+  }
+  .heroContent div {
+    justify-content: center;
+    align-items: center;
+  }
+
+  .heroContent p {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  /* .heroImage {
+   display: none;
+  } */
+  .hero {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+  .underLine {
+    padding-top: 20px;
+  }
+  .heroContent h1 {
+    font-size: 22px;
+  }
+  .heroContent p {
+    font-size: 12px;
+    text-align: center;
+    margin-top: -5px;
+  }
+  .heroContent div p {
+    font-size: 15px;
+    margin-top: unset;
+  }
+}

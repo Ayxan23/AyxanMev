@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "React",
+    "img": "react.png"
+  },
+  {
+    "id": 2,
+    "name": "Next.js",
+    "img": "next.png"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "img": "js.png"
+  },
+  {
+    "id": 4,
+    "name": "TypeScript",
+    "img": "ts.png"
+  },
+  {
+    "id": 5,
+    "name": "Redux",
+    "img": "redux.png"
+  },
+  {
+    "id": 6,
+    "name": "Git",
+    "img": "git.png"
+  },
+  {
+    "id": 7,
+    "name": "CSS 3",
+    "img": "css.png"
+  },
+  {
+    "id": 8,
+    "name": "Sass",
+    "img": "sass.png"
+  },
+  {
+    "id": 9,
+    "name": "HTML 5",
+    "img": "html.png"
+  }
+]

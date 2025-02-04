@@ -1,0 +1,17 @@
+:root {
+    --body-color: #D9D9D9;
+    --text-color: #222;
+    --primary-color: #1A6589;
+    --secondary-color: #8D683A;
+    --light-color:#70eaff;
+  }
+
+  
+  /* ::placeholder {
+    color: #949494;
+  } */
+  
+  ::selection {
+    color: white;
+    background: gray;
+  }

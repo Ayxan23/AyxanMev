@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+      { "source": "/fylo/:path*", "destination": "https://ilksite.vercel.app/:path*" },
+      { "source": "/blog/:path*", "destination": "https://ikincisite.vercel.app/:path*" }
+    ]
+  }
+  
