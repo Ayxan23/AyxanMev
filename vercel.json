@@ -5,7 +5,7 @@
       "destination": "https://blog-app-omega-jade.vercel.app//:path*"
     },
     {
-      "source": "/blog/:path*",
+      "source": "/vlog/:path*",
       "destination": "https://ikincisite.vercel.app/:path*"
     }
   ]
