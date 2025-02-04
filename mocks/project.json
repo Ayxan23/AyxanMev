@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "name": "Netfilms",
+    "desc": "I built NetFilms using React and Next.js, creating a Netflix-like platform with a smooth and dynamic user experience. Movie data is fetched via an API, ensuring real-time updates and a rich content library. This project allowed me to enhance my front-end skills while working with API integration and modern web technologies",
+    "img": "netfilms.jpg",
+    "liveLink": "https://net-films-sigma.vercel.app/",
+    "sourceLink": "https://github.com/Ayxan23/NetFilms.git"
+  },
+  {
+    "id": 2,
     "name": "Blog",
     "desc": "I built this blog website using Next.js and React, focusing on clean and efficient design to enhance user experience. The platform dynamically fetches images via an API, ensuring a visually rich and engaging interface. My goal was to turn complex ideas into a seamless, user-friendly experience while continuously refining my skills with modern web technologies",
     "img": "blog.jpg",
@@ -8,7 +16,7 @@
     "sourceLink": "https://github.com/Ayxan23/blog-app.git"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Fylo",
     "desc": "I designed and developed the Fylo landing page using HTML and CSS, focusing on a clean and responsive layout. The goal was to create a visually appealing and user-friendly interface while ensuring smooth adaptability across different devices. This project helped me refine my front-end skills and attention to detail in web design",
     "img": "fylo.jpg",
