@@ -9,10 +9,10 @@
   },
   {
     "id": 2,
-    "name": "Project Name2",
-    "desc": "I enjoy turning complex problems into simple designs, while continuously learning new technologies to improve my craft. Whether it’s building interactive UIs or optimizing the user experience, I’m driven by the challenge of creating web applications that people love to use",
-    "img": "16x9.jpg",
-    "liveLink": "/vlog",
-    "sourceLink": "/vlog"
+    "name": "Fylo",
+    "desc": "I designed and developed the Fylo landing page using HTML and CSS, focusing on a clean and responsive layout. The goal was to create a visually appealing and user-friendly interface while ensuring smooth adaptability across different devices. This project helped me refine my front-end skills and attention to detail in web design",
+    "img": "fylo.jpg",
+    "liveLink": "https://fylo-landing-page-eight-sage.vercel.app/",
+    "sourceLink": "https://github.com/Ayxan23/Fylo-Landing-Page.git"
   }
 ]
