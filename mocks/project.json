@@ -2,10 +2,10 @@
   {
     "id": 1,
     "name": "Blog",
-    "desc": "I enjoy turning complex problems into simple designs, while continuously learning new technologies to improve my craft. Whether it’s building interactive UIs or optimizing the user experience, I’m driven by the challenge of creating web applications that people love to use",
-    "img": "16x9.jpg",
-    "liveLink": "/blog",
-    "sourceLink": "/blog"
+    "desc": "I built this blog website using Next.js and React, focusing on clean and efficient design to enhance user experience. The platform dynamically fetches images via an API, ensuring a visually rich and engaging interface. My goal was to turn complex ideas into a seamless, user-friendly experience while continuously refining my skills with modern web technologies",
+    "img": "blog.jpg",
+    "liveLink": "https://blog-app-omega-jade.vercel.app/",
+    "sourceLink": "https://github.com/Ayxan23/blog-app.git"
   },
   {
     "id": 2,
