@@ -36,8 +36,7 @@
   list-style-type: none;
   cursor: pointer;
 }
-.headerNav a:hover,
-li:hover {
+.headerNav li:hover {
   color: var(--primary-color);
 }
 
