@@ -6,7 +6,7 @@
     },
     {
       "source": "/vlog/:path*",
-      "destination": "https://ikincisite.vercel.app/:path*"
+      "destination": "https://www.youtube.com/:path*"
     }
   ]
 }
