@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/blog/:path*",
-      "destination": "https://blog-app-omega-jade.vercel.app//:path*"
+      "destination": "https://blog-app-omega-jade.vercel.app/:path*"
     },
     {
       "source": "/vlog/:path*",
