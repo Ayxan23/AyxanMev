@@ -17,6 +17,22 @@
   },
   {
     "id": 3,
+    "name": "Click Counter",
+    "desc": "I developed a Mouse Click Counter game using HTML, CSS, and pure JavaScript, featuring 1, 5, 10, and 15-second timer options. Players click as fast as possible within the chosen time limit to earn a score. This project helped me improve my JavaScript skills while focusing on interactive and dynamic user experiences",
+    "img": "click.jpg",
+    "liveLink": "https://click-counter-sepia.vercel.app/",
+    "sourceLink": "https://github.com/Ayxan23/JS-Click-Counter.git"
+  },
+  {
+    "id": 4,
+    "name": "Capital Shop",
+    "desc": "I built Capital Shop using HTML, CSS, and pure JavaScript, creating a functional e-commerce site with local storage support. Users can add, remove, and filter products by category while their cart is saved for later. The site also includes login and signup features, enhancing both usability and interactivity",
+    "img": "capital.jpg",
+    "liveLink": "https://capital-shop-ten.vercel.app/",
+    "sourceLink": "https://github.com/Ayxan23/capital-shop.git"
+  },
+  {
+    "id": 5,
     "name": "Fylo",
     "desc": "I designed and developed the Fylo landing page using HTML and CSS, focusing on a clean and responsive layout. The goal was to create a visually appealing and user-friendly interface while ensuring smooth adaptability across different devices. This project helped me refine my front-end skills and attention to detail in web design",
     "img": "fylo.jpg",
