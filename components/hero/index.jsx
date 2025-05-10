@@ -12,7 +12,7 @@ const Hero = () => {
       <div className="container">
         <section className={styles.hero} >
           <div className={styles.heroImage}>
-            <Image src="/photo/pp.png" alt="Intro" fill={true} priority />
+            <Image src="/photo/pp.PNG" alt="Intro" fill={true} priority />
           </div>
 
           <div className={styles.heroContent}>
