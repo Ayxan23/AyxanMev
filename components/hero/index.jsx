@@ -44,12 +44,12 @@ const Hero = () => {
                   Linkedin
                 </p>
               </Link>
-              <p>
+              {/* <p>
                 <span>
                   <FaPhoneAlt />
                 </span>
                 +994(50) 390 00 31
-              </p>
+              </p> */}
               <p>
                 <span>
                   <IoMdMail />
